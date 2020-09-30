@@ -1,8 +1,8 @@
-import { helloWorld } from './../src'
-import { expect } from 'chai'
+import { youGotServed } from "./../src";
+import { expect } from "chai";
 
-describe('helloWorld', () => {
-    it('Should return greetings', () => {
-        expect(helloWorld()).equals('Howdy!')
-    })
-})
+describe("log", () => {
+  it("Should welcome the dickhead with a very nice message", () => {
+    expect(youGotServed()).equals("You Got Served, Dickhead!");
+  });
+});

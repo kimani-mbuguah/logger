@@ -44,3 +44,5 @@ export const logUrl = () => {
     }
   };
 };
+
+export const youGotServed = () => "You Got Served, Dickhead!";

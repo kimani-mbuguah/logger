@@ -13,13 +13,13 @@
     "typescript",
     "github packages",
     "npm packages",
-    "boilerplate"
+    "logger"
   ],
   "author": "Kimani Mbugua",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+    "url": "https://github.com/kimani-mbuguah/logger.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
