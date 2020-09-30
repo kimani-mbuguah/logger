@@ -1,4 +1,4 @@
-# TypeScript Package Starter
+# HTTP REQUEST LOGGER
 
 Monitor http requests
 
