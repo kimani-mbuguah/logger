@@ -19,7 +19,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kimani-mbuguah/logger.git"
+    "url": "git+https://github.com/kimani-mbuguah/logger.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
